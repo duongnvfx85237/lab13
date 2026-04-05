@@ -1,0 +1,25 @@
+body {
+  padding-top: 3.5rem;
+}
+
+.carousel-item {
+  height: 40rem;
+}
+
+.bg-img1 {
+  background-image: url("images/bg-img-1.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-img2 {
+  background-image: url("images/bg-img-2.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-img3 {
+  background-image: url("images/bg-img-3.jpg");
+  background-size: cover;
+  background-position: center;
+}
